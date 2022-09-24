@@ -240,7 +240,7 @@ AfxMessageBox(str);
 void CPVZCheaterDlg::OnButtonChlickenTest()
 {
 	ShellExecute(NULL, CString("open"),
-		CString("https://www.baidu.com/"),
+		CString("https://github.com/heyunan111/PV.Z_Cheater.git"),
 		NULL, NULL,
 		SW_SHOWNORMAL);
 	/*
